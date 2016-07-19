@@ -1,0 +1,5 @@
+package zootopia;
+
+class FindPath {
+
+}
